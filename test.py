@@ -7,3 +7,7 @@ def add_fun(a,b):
 def sub_fun(a,b):
 	c = a - b
 	return c
+
+def mul_fun(a,b):
+	c = a * b
+	return c
